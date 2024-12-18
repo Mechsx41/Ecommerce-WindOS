@@ -7,9 +7,9 @@ export const EmblaCarousel = () => {
   const [emblaRef] = useEmblaCarousel({ loop: false }, [Autoplay()])
 
   const banners = [
-    "src/assets/Components/Source/img/banner1.jpg",
-    "src/assets/Components/Source/img/banner2.jpg",
-    "src/assets/Components/Source/img/banner3.jpg",
+    "src/assets/Components/Source/img/banner1.webp",
+    "src/assets/Components/Source/img/banner2.webp",
+    "src/assets/Components/Source/img/banner3.webp",
   ]
   return (
     <div className="embla" ref={emblaRef}>

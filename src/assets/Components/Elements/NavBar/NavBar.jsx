@@ -22,7 +22,7 @@ const NavBar = ({ setCategory }) => {
           <nav className="navbar">
           <div>
             <Link to="/" className="logoName" onClick={() => handleCategorySelect('')}>
-              <img className="logo" alt="logo" src="src/assets/Components/Source/img/imagelogo.png" />
+              <img className="logo" alt="logo" src="https://uca421e73002e2283ce838aa1dc6.previews.dropboxusercontent.com/p/thumb/ACdAVaR0AhlUtAPHctC__q3uubT5m7M7Pmh2W_CYPfQhCcVqedSFjRMVzkxT4iEBxwmQFOY0O9Kli-co9BXpQ01GmG8PRBofwuPz8Fqbt__dFnBUN-Bqsl7fyJF_8hrxW2fbXvNVEtvntPcyrO4Y-nqJZVrEj1PjotytPXhWPTZGcu53-ahzrnfRS7Xb8sTAu-Mxqjbc-_BXT1uvv21fnhFb1ZTl2UQ5Uv47TTohU4tX6rEw-JDnCVqm7riYZjuoLZpxIyEK8qJAdedBDk0ae2azNoeXzWQHN5HxA-yY68VVrYdDYkiNO6aVww5bjjR02qtGnhEe4Nqc90y9N1KEXVDf/p.png" />
               <h3 className="titlelogo">Electronics</h3>
             </Link>
             </div>
